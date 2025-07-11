@@ -2,9 +2,11 @@
 
 ## INTRODUCTION
 
-This guide transforms The Neural Wars saga into a visceral, immediate reading experience by applying Suzanne Collins' proven stylistic techniques. The goal: to create prose that grips readers through sensory immersion, emotional resonance, and relentless forward momentum—while preserving the saga's unique science fiction concepts.
+This comprehensive Collins-style guide for "Fractured Code" synthesizes word-by-word analysis of every chapter to extract definitive prose style, narrative rhythm, dialogue patterns, sensory immersion techniques, and character interiority methods. The goal: to create prose that grips readers through sensory immersion, emotional resonance, and relentless forward momentum—while preserving the saga's unique science fiction concepts.
 
 **Core Philosophy**: Replace abstraction with sensation. Transform technical concepts into lived experience. Make every page turn inevitable.
+
+**Source Material**: Complete analysis of all sixteen chapters providing specific text examples and actionable rewrite strategies.
 
 ---
 
